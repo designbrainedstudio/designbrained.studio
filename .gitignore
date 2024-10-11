@@ -7,3 +7,5 @@ pages/home.js
 pages/work.js
 utils/formValidation.js
 pages/contact.js
+pages/generic.js
+utils/whatsappWidget.js
